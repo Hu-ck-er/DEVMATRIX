@@ -8,11 +8,11 @@
 
 • افتح ترمنال وحط
 
-git clone https://github.com/hackr2009/DEVFAEDER 
+git clone https://github.com/Hu-ck-er/DEVMATRIX 
 
 • انتر وراه حط الكودات بالتسلسل •
 
- cd DEVFAEDER 
+ cd DEVMATRIX 
 
  chmod +x install.sh 
 
