@@ -2,7 +2,7 @@
 
 ❁✵✵✵✵✵✵✵✵✵✵✵✵✵✵❁
 
-• لتنصيب سورس فايدر التيجي الجديد ع التوكن
+• لتنصيب سورس ماتركيس التيجي الجديد ع التوكن
 
 ❁✵✵✵✵✵✵✵✵✵✵✵✵✵✵❁
 
@@ -24,7 +24,7 @@ git clone https://github.com/Hu-ck-er/DEVMATRIX
 
 • او نصب بكود واحد
 
-git clone https://github.com/hackr2009/DEVFAEDER                                                                                                                                                                cd DEVFAEDER                                                                                                                                                                                                                                         chmod +x install.sh                                                                                                                                                                                                                                   ./install.sh
+git clone https://github.com/Hu-ck-er/DEVMATRIX                                                                                                                                                                 cd DEVMATRIX                                                                                                                                                                                                                                         chmod +x install.sh                                                                                                                                                                                                                                   ./install.sh
 
 • وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y •
 
@@ -42,11 +42,11 @@ redis-server
 
 -  وسوي رن من الملف
 
-Faeder.Sh
+matrix.Sh
 
 مبروك عليك افضل سورس
 
 ❁✵✵✵✵✵✵✵✵✵✵✵✵✵✵❁
-Dev :: @pro_c9
-Bot :: @ll750kll_bot
-Ch :: @Team_faeder
+Dev :: @sl00ls
+Bot :: @ali1999_0
+Ch :: @Mustafaf16
